@@ -1,0 +1,11 @@
+C:\Users\jupac\Documents\Telecofinal\EntregaTFG_JuanPabloCanoLopez\Proyecto_Programado\WorkspaceP1\Advertise.cydsn\Advertise.cyprj|c52014d8-b351-4ef3-9c5d-09123014330d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|5c6a6754-fba8-4b87-86fc-10d5dfceb604
+C:\Users\jupac\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|645cde22-fca1-42e0-a6e6-157b5336bfff
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|239fdba7-2ae2-467a-b90c-cec4798625ee
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|243bcc2a-1d81-4fb4-b8e7-ccf49602ee59
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e7f76794-e891-4b94-8a23-f8d4c11f0451
+C:\Users\jupac\Documents\Telecofinal\EntregaTFG_JuanPabloCanoLopez\Proyecto_Programado\WorkspaceP1\InterrupcionBasica.cydsn\InterrupcionBasica.cyprj|3c240fda-5cd2-4d88-a419-fde7b08d4119
+C:\Users\jupac\Documents\Telecofinal\EntregaTFG_JuanPabloCanoLopez\Proyecto_Programado\WorkspaceP1\Scan.cydsn\Scan.cyprj|c40bc0aa-00fb-4466-8b5d-a897bef60ad0
+C:\Users\jupac\Documents\Telecofinal\EntregaTFG_JuanPabloCanoLopez\Proyecto_Programado\WorkspaceP1\ReTransmisor_1.cydsn\ReTransmisor_1.cyprj|965b6602-da3f-43ca-8270-707592041b57
+C:\Users\jupac\Documents\Telecofinal\EntregaTFG_JuanPabloCanoLopez\Proyecto_Programado\WorkspaceP1\Scan_All.cydsn\Scan_All.cyprj|96e8f9bb-2489-46d4-94b6-18580f3b2cd8
+C:\Users\jupac\Documents\Telecofinal\EntregaTFG_JuanPabloCanoLopez\Proyecto_Programado\WorkspaceP1\ReTransmisor_2.cydsn\ReTransmisor_2.cyprj|47e09d4c-db37-43e6-b82d-2486f1247b4f
