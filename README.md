@@ -7,4 +7,5 @@ The programs are explained in spanish inside the report but a summary would be t
   ReTransmisor_2 waits for the message identified as the one from retransmisor one and modifies again the identification.
   Finally the scanner only scans for messages identified as the ones from retransmisor two. 
 This is done making changes to parameters of the advertising process and the scanning one to make an study of how these changes affect this model
-of communication, that is rarely used with these gadgets.
+of communication, that is rarely used with these gadgets. 
+There are some other configurations in which the programs do not do exactly the same, scan all, for example, accepts messages identified as the ones from retransmisor one, two and the original advertiser.
